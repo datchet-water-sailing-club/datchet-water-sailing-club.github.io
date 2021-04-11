@@ -42,23 +42,10 @@ Here are the top-level files and directories you'll see in a site created using 
 ```text
 gatsby-starter-theme
 ├── content
-│   ├── assets
-│   │   └── avatar.jpg
 │   ├── notes
 │   │   ├── example-dir
 │   │   │   └── hi.mdx
 │   │   └── hello.mdx
-│   └── posts
-│       ├── hello-world.mdx
-│       ├── my-second-post.mdx
-│       └── new-beginnings.mdx
-├── src
-│   ├── gatsby-theme-blog
-│   │   └── components
-│   │       └── header.js
-│   └── gatsby-theme-notes
-│       └── components
-│           └── layout.js
 ├── .gitignore
 ├── .prettierrc
 ├── gatsby-config.js
