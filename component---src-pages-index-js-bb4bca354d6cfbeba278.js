@@ -1,0 +1,2 @@
+(self.webpackChunkdwsc_results=self.webpackChunkdwsc_results||[]).push([[678],{704:function(e,l,s){"use strict";s.r(l);var u=s(294);l.default=function(){return u.createElement("div",null,"Hello world :P")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-bb4bca354d6cfbeba278.js.map

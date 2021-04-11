@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://dwsc-results/./src/pages/index.js"],"names":[],"mappings":"oIAGA,UADa,kBAAM","file":"component---src-pages-index-js-bb4bca354d6cfbeba278.js","sourcesContent":["import React from 'react';\n\nconst Home = () => <div>Hello world :P</div>;\nexport default Home;"],"sourceRoot":""}
